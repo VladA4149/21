@@ -1,0 +1,15 @@
+C:\Users\k12a\source\repos\21.4\21.4\bin\Debug\net6.0\21.4.exe
+C:\Users\k12a\source\repos\21.4\21.4\bin\Debug\net6.0\21.4.deps.json
+C:\Users\k12a\source\repos\21.4\21.4\bin\Debug\net6.0\21.4.runtimeconfig.json
+C:\Users\k12a\source\repos\21.4\21.4\bin\Debug\net6.0\21.4.dll
+C:\Users\k12a\source\repos\21.4\21.4\bin\Debug\net6.0\21.4.pdb
+C:\Users\k12a\source\repos\21.4\21.4\obj\Debug\net6.0\21.4.csproj.AssemblyReference.cache
+C:\Users\k12a\source\repos\21.4\21.4\obj\Debug\net6.0\21.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k12a\source\repos\21.4\21.4\obj\Debug\net6.0\21.4.AssemblyInfoInputs.cache
+C:\Users\k12a\source\repos\21.4\21.4\obj\Debug\net6.0\21.4.AssemblyInfo.cs
+C:\Users\k12a\source\repos\21.4\21.4\obj\Debug\net6.0\21.4.csproj.CoreCompileInputs.cache
+C:\Users\k12a\source\repos\21.4\21.4\obj\Debug\net6.0\21.4.dll
+C:\Users\k12a\source\repos\21.4\21.4\obj\Debug\net6.0\refint\21.4.dll
+C:\Users\k12a\source\repos\21.4\21.4\obj\Debug\net6.0\21.4.pdb
+C:\Users\k12a\source\repos\21.4\21.4\obj\Debug\net6.0\21.4.genruntimeconfig.cache
+C:\Users\k12a\source\repos\21.4\21.4\obj\Debug\net6.0\ref\21.4.dll

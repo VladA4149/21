@@ -1,0 +1,11 @@
+C:\Users\k12a\source\repos\21.3\21.3\bin\Debug\21.3.exe.config
+C:\Users\k12a\source\repos\21.3\21.3\bin\Debug\21.3.exe
+C:\Users\k12a\source\repos\21.3\21.3\bin\Debug\21.3.pdb
+C:\Users\k12a\source\repos\21.3\21.3\obj\Debug\21.3.csproj.AssemblyReference.cache
+C:\Users\k12a\source\repos\21.3\21.3\obj\Debug\21.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\k12a\source\repos\21.3\21.3\obj\Debug\_21._3.Form1.resources
+C:\Users\k12a\source\repos\21.3\21.3\obj\Debug\_21._3.Properties.Resources.resources
+C:\Users\k12a\source\repos\21.3\21.3\obj\Debug\21.3.csproj.GenerateResource.cache
+C:\Users\k12a\source\repos\21.3\21.3\obj\Debug\21.3.csproj.CoreCompileInputs.cache
+C:\Users\k12a\source\repos\21.3\21.3\obj\Debug\21.3.exe
+C:\Users\k12a\source\repos\21.3\21.3\obj\Debug\21.3.pdb
